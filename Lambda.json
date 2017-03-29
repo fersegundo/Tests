@@ -1,0 +1,112 @@
+﻿{
+    "feed": [
+        {
+            "id": 1,
+            "name": "Lets bi Chicks!",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2012/12/20150218_195720-300x225.jpg",
+            "status": "Wir sind die LeTs Bi Chicks, was fur lesbisch, bi und trans steht. Vor allem sind wir aber eine Gruppe queerer, bunter Weiblichkeiten. Wir sind alle zwischen 14 und 27 Jahren alt und kommen aus unterschiedlichsten Kontexten Manche von uns arbeiten, manche studieren, andere gehen zur Schule, machen Praktika oder schauen noch.",
+            "profilePic": null,
+            "timeStamp": "1403375851930",
+            "url": null
+        },
+        {
+            "id": 2,
+            "name": "Verein Meeting",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2012/12/DSC04866-300x225.jpg",
+            "status": "Nur für Mitgleider",
+            "profilePic": null,
+            "timeStamp": "1403375851930",
+            "url": "http://ti.me/1qW8MLB"
+        },
+        {
+            "id": 5,
+            "name": "Dj* Workshop",
+            "image": null,
+            "status": "Was genau machen diese Dj*s eigentlich wenn sie am Pult stehen? Welche Knopfe drehen, schieben, drucken sie wann und warum und wie machen sie das mit diesen ubergangen? Dieser Workshop bietet eine Einfuhrung zu dem Thema Auflegen mit MP3. Ich erklare euch grundlegend die Technik mit der ihr es zu tun haben werdet. Ausserdem gibt es eine Einfuhrung in das Programm Traktor. Bitte bringt die Musik mit, mit der ihr umprobieren wollt. (10-15 Songs als Mp3)",
+            "profilePic": null,
+            "timeStamp": "1403375851930",
+            "url": null
+        },
+        {
+            "id": 3,
+            "name": "Klausurtag Zukunftswerkstatt und Jahresplanung 2017",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2012/12/IMG_20160817_192933-300x168.jpg",
+            "status": "Wir planen das Jahr 2017. Bringt eure Ideen mit.",
+            "profilePic": null,
+            "timeStamp": "1403375851930",
+            "url": "http://dsc.tv/xmMxD"
+        },
+        {
+            "id": 4,
+            "name": "Vegan soli Brunch",
+            "image": null,
+            "status": "Android Sliding Menu using Navigation Drawer",
+            "profilePic": "http://api.androidhive.info/feed/img/ravi_tamada.jpg",
+            "timeStamp": "1403375851930",
+            "url": "http://www.androidhive.info/2013/11/android-sliding-menu-using-navigation-drawer/"
+        },
+        {
+            "id": 6,
+            "name": "Maxxx ist bei uns",
+            "image": "http://api.androidhive.info/feed/img/ktm_1290.jpg",
+            "status": "\"The Beast\" KTM 1290 Super Duke",
+            "profilePic": "http://api.androidhive.info/feed/img/ktm.png",
+            "timeStamp": "1403375851930",
+            "url": ""
+        },
+        {
+            "id": 7,
+            "name": "Cabaret queer",
+            "image": "http://api.androidhive.info/feed/img/harley_bike.jpg",
+            "status": "We’re assembling riders of every style, bike, and passion. If you ride with conviction, ride with us. You have 24 days to get ready for World Ride. Prepare by visiting:",
+            "profilePic": "http://api.androidhive.info/feed/img/harley.jpg",
+            "timeStamp": "1403375851930",
+            "url": "http://bit.ly/1wmBWaN"
+        },
+        {
+            "id": 8,
+            "name": "Für die kleine",
+            "image": "http://api.androidhive.info/feed/img/rock.jpg",
+            "status": "A long time back...",
+            "profilePic": "http://api.androidhive.info/feed/img/rock_girl.jpg",
+            "timeStamp": "1403375851930",
+            "url": ""
+        },
+        {
+            "id": 8,
+            "name": "Family time",
+            "image": null,
+            "status": "An eye for an eye will make the whole world blind.",
+            "profilePic": "http://api.androidhive.info/feed/img/gandhi.jpg",
+            "timeStamp": "1403375851930",
+            "url": ""
+        },
+        {
+            "id": 9,
+            "name": "Kicker Tournier",
+            "image": "http://api.androidhive.info/feed/img/life_photo.jpg",
+            "status": "In 1965, LIFE photographer Bill Ray spent weeks with the Hells Angels, but his amazing photos never ran in the magazine",
+            "profilePic": "http://api.androidhive.info/feed/img/life.jpg",
+            "timeStamp": "1403375851930",
+            "url": "http://ti.me/1rfcQa4"
+        },
+        {
+            "id": 10,
+            "name": "Vegan picnic und Spiele",
+            "image": "http://api.androidhive.info/feed/img/shakira_la_la.png",
+            "status": "Download La La La (Brazil 2014) from iTunes:",
+            "profilePic": "http://api.androidhive.info/feed/img/shakira.jpg",
+            "timeStamp": "1403375851930",
+            "url": "http://smarturl.it/FWCalbum?IQid=sh"
+        },
+        {
+            "id": 11,
+            "name": "Termin",
+            "image": "http://api.androidhive.info/feed/img/ar_bw.jpg",
+            "status": "",
+            "profilePic": "http://api.androidhive.info/feed/img/ar.jpg",
+            "timeStamp": "1403375851930",
+            "url": ""
+        }
+    ]
+}
