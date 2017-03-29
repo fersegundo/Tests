@@ -1,0 +1,94 @@
+﻿{
+    "feed": [
+        {
+            "id": 1,
+            "name": "Lets bi Chicks!",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2012/12/20150218_195720-300x225.jpg",
+            "status": "Wir sind die LeTs Bi Chicks, was fur lesbisch, bi und trans steht. Vor allem sind wir aber eine Gruppe queerer, bunter Weiblichkeiten. Wir sind alle zwischen 14 und 27 Jahren alt und kommen aus unterschiedlichsten Kontexten Manche von uns arbeiten, manche studieren, andere gehen zur Schule, machen Praktika oder schauen noch.",
+            "profilePic": null,
+            "timeStamp": "1403375851930",
+            "url": null
+        },
+        {
+            "id": 2,
+            "name": "Verein Meeting",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2012/12/DSC04866-300x225.jpg",
+            "status": "Nur für Mitgleider",
+            "profilePic": null,
+            "timeStamp": "1403375851930",
+            "url": "http://ti.me/1qW8MLB"
+        },
+        {
+            "id": 3,
+            "name": "Dj* Workshop",
+            "image": null,
+            "status": "Was genau machen diese Dj*s eigentlich wenn sie am Pult stehen? Welche Knopfe drehen, schieben, drucken sie wann und warum und wie machen sie das mit diesen ubergangen? Dieser Workshop bietet eine Einfuhrung zu dem Thema Auflegen mit MP3. Ich erklare euch grundlegend die Technik mit der ihr es zu tun haben werdet. Ausserdem gibt es eine Einfuhrung in das Programm Traktor. Bitte bringt die Musik mit, mit der ihr umprobieren wollt. (10-15 Songs als Mp3)",
+            "profilePic": null,
+            "timeStamp": "1403375851930",
+            "url": null
+        },
+        {
+            "id": 4,
+            "name": "Klausurtag Zukunftswerkstatt und Jahresplanung 2017",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2012/12/IMG_20160817_192933-300x168.jpg",
+            "status": "Wir planen das Jahr 2017. Bringt eure Ideen mit.",
+            "profilePic": null,
+            "timeStamp": "1403375851930",
+            "url": "http://dsc.tv/xmMxD"
+        },
+        {
+            "id": 5,
+            "name": "Sport frei!",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2013/04/RespectNights_header.jpg",
+            "status": "Auch in diesem Jahr nehmen wir mit einer Sportmenschaft an den alljährlich vom Lesben- und Schwulenverband (LSVD) organi-sierten Respect Nights / Respect Gaymes teil. Euch erwarten Kicker-, Tischtennis- und Fußball-Turniere sowie weitere Aktionen gegen Homo- und Transphobie.",
+            "profilePic": "http://api.androidhive.info/feed/img/ravi_tamada.jpg",
+            "timeStamp": "1403375851930",
+            "url": "http://www.androidhive.info/2013/11/android-sliding-menu-using-navigation-drawer/"
+        },
+        {
+            "id": 6,
+            "name": "CSD Potsdam",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2013/04/csd-potsdam-2013.jpg",
+            "status": "Das queere Highlight in Potsdam! Ihr findet unseren magenta-gelben Stand traditionell neben dem von unserem Kooperationsverband AndersARTiG. Seit 2013 ist das Standfest am Alten Markt 1 zu finden. Potsdam ist immer eine Reise wert! In unserer Galerie findest du die aktuellen Fotos!",
+            "profilePic": "http://api.androidhive.info/feed/img/ktm.png",
+            "timeStamp": "1403375851930",
+            "url": ""
+        },
+        {
+            "id": 7,
+            "name": "CSD Berlin",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2013/01/csd_1_2012.jpg",
+            "status": "Jedes Jahr findet traditionell der Christopher Street Day in vielen Orten der Welt statt. Die Besonderheit in Berlin: Hier gibt es sogar zwei Paraden: Zum einen die eher kommerzielle ums Brandenburger Tor und am gleichen Tag den transgenialen CSD. Wir werden auf beiden vertreten sein.",
+            "profilePic": "http://api.androidhive.info/feed/img/harley.jpg",
+            "timeStamp": "1403375851930",
+            "url": "http://bit.ly/1wmBWaN"
+        },
+        {
+            "id": 8,
+            "name": "Motzstraßenfest",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2013/04/motzstra%C3%9Fenfest-logo1.jpg",
+            "status": "Alle Jahre wieder ist auch Lambda BB auf dem Straßenfest rund um den U-Bahnhof Nollendorfplatz vertreten. Ihr findet unseren magenta-gelben Stand traditionell in der Kalkreuth-Straße. Euch erwarten viele nette Menschen und nette Aktionen. Schaut einfach mal vorbei!",
+            "profilePic": "http://api.androidhive.info/feed/img/rock_girl.jpg",
+            "timeStamp": "1403375851930",
+            "url": ""
+        },
+        {
+            "id": 9,
+            "name": "Family time",
+            "image": null,
+            "status": "An eye for an eye will make the whole world blind.",
+            "profilePic": "http://api.androidhive.info/feed/img/gandhi.jpg",
+            "timeStamp": "1403375851930",
+            "url": ""
+        },
+        {
+            "id": 10,
+            "name": "Parkfest F’hain",
+            "image": "https://www.lambda-bb.de/wp-content/uploads/2013/04/parkfest-friedrichshain-2012.jpg",
+            "status": "Jeweils im August / September des Jahres lockt das Parkfest Friedrichshain viele queere Menschen ins Freilichtkino im Volkspark Friedrichshain. Auch dieses große queere Event wird Lambda BB sich natürlich nicht entgehen lassen! Die Standorte der jeweiligen Vereine werden jährlich neu ausgelost. Aber du entdeckst uns bestimmt!",
+            "profilePic": "http://api.androidhive.info/feed/img/life.jpg",
+            "timeStamp": "1403375851930",
+            "url": "http://ti.me/1rfcQa4"
+        },
+    ]
+}
